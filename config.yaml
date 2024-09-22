@@ -1,0 +1,2 @@
+letters_file: "./letters.csv"
+word_list_file: "./legal_words.txt"
